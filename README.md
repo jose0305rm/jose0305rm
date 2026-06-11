@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, There!!
 
-<!--
-**jose0305rm/jose0305rm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build interfaces and systems that feel good to use. Mostly working with **React**, **TypeScript** and **TailwindCSS** on the frontend — clean, typed, and well-structured.
 
-Here are some ideas to get you started:
+On the backend I work with **Node.js**, **Express**, **Next.js** and **NestJS**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech
+
+**Day to day**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+
+**By curiosity**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+
+---
+
+## 📖 Hobbies
+
+Some of my hobbies are:
+
+- 🎹 **Pianist** 
+- 📚 **Reader** 
+- 🃏 **TCG player** 
+
+---
+
+*Always learning and building. 🚀*
