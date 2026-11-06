@@ -30,3 +30,7 @@ Some of my hobbies are:
 - 🃏 **TCG player** 
 ---
 *Always learning and building. 🚀*
+
+CHECK MY PORTFOLIO
+https://jose0305rm.github.io/jose0305rm/
+
