@@ -64,6 +64,24 @@ export const projects: Project[] = [
     repoUrl: 'https://github.com/jose0305rm/On_Task',
     featured: true,
   },
+  {
+    id: 'cotizador-prestamos',
+    title: 'Loan Quoter',
+    description:
+      'Loan calculator that instantly shows the total to pay, the interest and the monthly payment for a chosen amount and term. Supports an automatic rate or a custom interest rate defined by the user.',
+    highlights: [
+      'Pick the amount with a slider or +/- buttons and choose the payment term',
+      'Automatic mode: the rate adjusts to the amount requested and the term',
+      'Custom mode: annual, monthly or total rate with simple or fixed-payment (French) amortization',
+      'Totals derived from state, recalculated instantly on every change',
+      'Automatic deployment to GitHub Pages with GitHub Actions',
+    ],
+    tags: ['React', 'JavaScript', 'Vite', 'Tailwind CSS'],
+    image: 'img/projects/cotizador-prestamos.png',
+    demoUrl: 'https://jose0305rm.github.io/-loan_calculator/',
+    repoUrl: 'https://github.com/jose0305rm/-loan_calculator',
+    featured: true,
+  },
 
   // {
   //   id: 'next-project',
